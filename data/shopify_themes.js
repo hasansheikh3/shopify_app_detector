@@ -572,5 +572,13 @@ var SHOPIFY_THEMES = [
     "handle": "turbo",
     "style_id": 601,
     "style_handle": "turbo"
+  },
+  {
+    "name" : "Booster",
+     "theme_store_url" : "https://boostertheme.com/",
+     "id" : 0,
+     "handle" : "booster"
   }
+
+
 ];
